@@ -1,6 +1,6 @@
 package models
 
-import "github.com/Richard_Medeiros/proj1/db"
+import "github.com/Richardmedeiros11/go_server_-_web/db"
 
 type Produtos struct {
 	Id         int
