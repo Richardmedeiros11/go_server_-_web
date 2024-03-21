@@ -1,0 +1,4 @@
+github.com/Richardmedeiros11/go_server_-_web v0.0.0-20240321130948-082c08686953 h1:yemdq63CpJBfnl62qsr8tHlKrydbqQivbNkHM35dSzk=
+github.com/Richardmedeiros11/go_server_-_web v0.0.0-20240321130948-082c08686953/go.mod h1:dDasTWtJxCDi8cWgMVrxFQK9jK4ySP5KeQ7O5jkrNlc=
+github.com/lib/pq v1.10.9 h1:YXG7RB+JIjhP29X+OtkiDnYaXQwpS4JEWq7dtCCRUEw=
+github.com/lib/pq v1.10.9/go.mod h1:AlVN5x4E4T544tWzH6hKfbfQvm3HdbOxrmggDNAPY9o=
